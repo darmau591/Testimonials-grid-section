@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [HTML/CSS - Testimonials grid section](https://darmau591.github.io/Testimonials-grid-section/)
 - Live Site URL: [Github Page](https://darmau591.github.io/)
 
 ## My process
